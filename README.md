@@ -1,4 +1,3 @@
-example-java-selfbootstrap
-==========================
+This example shows the smallest possible Ratpack application.
 
-example
+The Groovy, Gradle and Guice tooling are all built on this mechanism for bootstrapping apps.
